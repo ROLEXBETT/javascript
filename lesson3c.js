@@ -2,10 +2,10 @@
 //structure
 // function keyword, name of the function, parenthisis, the body of the function inside curly braces.
 function sayHello(){
-    console.log("Hello there, Hope you are having a good day")
+    console.log("Hello there, Hope you are having a good day");
 }
 
-//call/invoke tghe function by use of the function
+//call/invoke the function by use of the function
 sayHello()
 
 //example 2

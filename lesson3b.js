@@ -54,7 +54,7 @@ console.log("*******************")
 
 // it creates a new array
 let number =[1,2,3,4,5];
-let squares =number.map(num => num**2);
-console.log(squares)
+let squares =numbers.map(num => num*2);
+console.log(squares);
 
 //Task: Write a for loop to print all odd numbers from 1 to 19. Task: Write a for loop to count down from 10 to 1 and print the numbers in the console.
