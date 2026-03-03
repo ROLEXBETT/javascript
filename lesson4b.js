@@ -9,7 +9,16 @@ const greet = function(){
 }
 greet();
 
-//Below is another anonymois function
+//Below is another anonymous function
+//IIFE (Immediately Invoked Function Expression)
 (function(){
     console.log("Welcome to the world of programming...")
 })();
+
+
+(function(){
+    let secret = "Hidden value";
+    console.log(secret);
+})();
+
+

@@ -1,4 +1,4 @@
-// Functions with parameters - they are values that get passsed as arguments when invoke a function
+// Functions with parameters - they are values that get passsed as arguments when we invoke a function
 // They help us create functions that can be reusable through out a program
 
 function greeting(name){
@@ -34,3 +34,4 @@ function SI(p, r, t){
     console.log("The simple interest is:"  ,SI)
 }
 SI(50000, 5, 8)
+
